@@ -9,5 +9,5 @@ Scala source file: https://github.com/gdpeters/ACM-CitationNetwork/blob/master/a
 Latex report: https://github.com/gdpeters/ACM-CitationNetwork/blob/master/acm_latex/acm_report.tex  
 Compiled report: https://github.com/gdpeters/ACM-CitationNetwork/blob/master/acm_latex/acm_report.pdf  
 
-#### Dataset
+### Dataset
 Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, and Zhong Su. ArnetMiner: Extraction and Mining of Academic Social Networks. In Proceedings of the Fourteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD'2008). pp.990-998.  
