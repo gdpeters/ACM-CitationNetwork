@@ -5,9 +5,9 @@ The Association for Computing Machinery (ACM) publishes peer reviewed journal ar
 This program, written in Scala using Spark SQL, the Spark GraphX library, and Jupyter Notebook, explores article properties, graphs the indegree distribution, ranks articles, and quantifies clustering.
 
 ### Contents
-Scala source file: https://github.com/gdpeters/ACM-CitationNetwork/blob/master/acm_master.ipynb
-Latex report: https://github.com/gdpeters/ACM-CitationNetwork/blob/master/acm_latex/acm_report.tex
-Compiled report: https://github.com/gdpeters/ACM-CitationNetwork/blob/master/acm_latex/acm_report.pdf
+Scala source file: https://github.com/gdpeters/ACM-CitationNetwork/blob/master/acm_master.ipynb  
+Latex report: https://github.com/gdpeters/ACM-CitationNetwork/blob/master/acm_latex/acm_report.tex  
+Compiled report: https://github.com/gdpeters/ACM-CitationNetwork/blob/master/acm_latex/acm_report.pdf  
 
 #### Dataset
-\bibitem{tang} Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, and Zhong Su. ArnetMiner: Extraction and Mining of Academic Social Networks. In Proceedings of the Fourteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD'2008). pp.990-998.
+Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, and Zhong Su. ArnetMiner: Extraction and Mining of Academic Social Networks. In Proceedings of the Fourteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD'2008). pp.990-998.  
